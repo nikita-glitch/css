@@ -1,0 +1,14 @@
+.navbar{
+  background: #EEEFF1;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.navbar__list {
+  display: flex;
+  list-style-type: none;
+}
+
+.list__element{
+
+}

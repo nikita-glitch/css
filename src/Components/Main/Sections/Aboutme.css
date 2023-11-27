@@ -6,7 +6,7 @@
     align-items: center;
     padding: 91px 27px 82px 26px;
   }
-  .section-aboutme__header {
+  .container-aboutme__header {
     margin: 0 0 42px 0;
     font-size: 32px;
 
@@ -16,7 +16,7 @@
     flex-direction: column;
     align-items: center;
   }
-   .section-aboutme__p {
+   .container-aboutme__p {
 
     width: 322px;
     height: 98px;
@@ -31,7 +31,7 @@
     padding: 119px 0 100px 0;
   }
 
-  .section-aboutme__header {
+  .container-aboutme__header {
     margin: 0 0 50px 0;
     font-size: 32px;
     text-align: center;

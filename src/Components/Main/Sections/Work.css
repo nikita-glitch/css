@@ -3,7 +3,7 @@
     padding: 93px 18px 91px 18px;
   }
 
-  .section-work__image1 {
+  .container-work__image1 {
     width: 339px;
     height: 185px;
   }
@@ -13,7 +13,7 @@
   .section-work__p{
     margin: 0 0 57px 0;
   }
-  .section-work__image2 {
+  .container-work__image2 {
     display: none;
   }
 }
@@ -29,13 +29,13 @@
 
 
 
-  .section-work__image1 {
+  .container-work__image1 {
     margin-top: 57px;
     width: 1100px;
     height: 600px;
   }
 
-  .section-work__image2 {
+  .container-work__image2 {
     display: none;
   }
 

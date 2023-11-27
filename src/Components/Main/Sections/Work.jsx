@@ -13,9 +13,9 @@ const Work = () => {
         вэб-дизайне. Lorem Ipsum является стандартной "рыбой" для текстов на
         латинице с начала XVI века.
       </p>
-      <div class='cont'>
-      <img class="section-work__image1" alt="" src={image1} />
-      <img class="section-work__image2" alt="" src={image2} />
+      <div class='section-work__container-work'>
+      <img class="container-work__image1" alt="" src={image1} />
+      <img class="container-work__image2" alt="" src={image2} />
       </div>
       
     </section>

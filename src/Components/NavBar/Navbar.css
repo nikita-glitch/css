@@ -2,13 +2,27 @@
   background: #EEEFF1;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
+  margin-bottom: 166px;
+
+}
+.navbar__logo {
+  width: 96px;
+  height: 60px;
 }
 .navbar__list {
   display: flex;
   list-style-type: none;
+  margin-left: 398px;
 }
 
 .list__element{
-
+  margin-right: 45px;
+}
+.list__element:last-child{
+  margin-right: 0;
+}
+.list__link:hover{
+  color: #34547A;
+  font-weight: 500;
 }

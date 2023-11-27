@@ -1,0 +1,15 @@
+.main__section-images {
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  margin: 28px 0 28px 0;
+}
+.section-images__image {
+  width: 480px;
+  height: 480px;
+}
+.section-images__image:hover {
+  width: 480px;
+  height: 480px;
+}

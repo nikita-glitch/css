@@ -1,0 +1,32 @@
+.main__section-website{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  background: #EEEFF1;
+}
+.section-website__header, .h2_header {
+  margin: 50px 0 0 0;
+}
+.section-website__p .p_text {
+  width: 540px;
+  height: 67px;
+  margin: 65px 0 0 0;
+  color: #727272;
+  text-align: center;
+}
+.section-website__button, .button{
+  width: 225px;
+  height: 65px;
+  border: none;
+  background-color: #34547A;
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+}
+.section-website__form {
+  margin-bottom: 50px;
+}
+.form__name-input {
+  margin: 20px 30px 0 0;
+}

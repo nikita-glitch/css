@@ -1,0 +1,26 @@
+.main__section-projects {
+  background-color: #34547A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 140px;
+  height: 250px;
+}
+.section-projects__logo {
+  width: 50px;
+  height: 50px;
+}
+.section_projects__p-size_21 {
+  margin: 10 0 0 20px;
+  color: #fff;
+  
+}
+.section_projects__p{
+  margin: 0 0 0 20px;
+  color: #fff;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

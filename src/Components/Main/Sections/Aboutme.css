@@ -1,2 +1,16 @@
 .main__section-aboutme{
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
+
+.section-aboutme__header, .h2_header{
+    margin: 50px 0 0 0;
+}
+.section-aboutme__p, .p_text{
+    width: 540px;
+    height: 67px;
+    color: #727272;
+    text-align: center;
+  }

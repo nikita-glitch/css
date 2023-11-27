@@ -32,6 +32,11 @@
     display: flex;
     margin: 0 0 30px 0;
   }
+  .container__text{
+   
+    color: #727272;
+
+  }
 }
 
 @media only screen and (min-width: 1280px) {
@@ -54,10 +59,10 @@
     height: 450px;
   }
 
-  .container__text {
+  .container__text{
     margin: 0 0 20px 0;
     color: #727272;
-    ;
+
   }
 
   .rectangle__blue {

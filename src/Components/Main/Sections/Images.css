@@ -1,29 +1,30 @@
 @media only screen and (min-width: 230px) and (max-width: 1279px) {
   .main__section-images {
+    
     background: #F9F9F9;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 0;
     padding: 34px 0 34px 0;
   }
-
   .section-images__image {
-    width: 188px;
-    height: 188px;
+    width: 100%;
   }
 }
 
 @media only screen and (min-width: 1280px) {
 
   .main__section-images {
+    margin: 0;
+    padding: 0;  
     background: #F9F9F9;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 0;
-    padding: 28px 10px 28px 0;
+    padding: 28px 0 28px 0;
   }
   .section-images__image {
-    /*background-image: url("../../../../static/Rectangle 7.3.png");*/  
+    width: 100%;
+    
 
   }
 

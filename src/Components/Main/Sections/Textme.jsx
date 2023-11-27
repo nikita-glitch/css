@@ -7,14 +7,14 @@ const Textme = () => {
     <section class="main__section-textme">
       <img class="section-textme__img" src={logo} alt="" />
       <div class="section-textme__container">
-        <h2 class="section-textme__header">Дизайн и верстка</h2>
-        <p class="section-textme__p">
+        <h2 class="section-textme__header h2_header">Дизайн и верстка</h2>
+        <p class="section-textme__p p_text">
           Lorem Ipsum - это текст-"рыба", часто используемый в печати и
           вэб-дизайне. Lorem Ipsum является стандартной "рыбой" для текстов на
           латинице с начала XVI века.
         </p>
         <button class="section-textme__button button">
-          Написать мне
+           НАПИСАТЬ МНЕ
         </button>
       </div>
     </section>

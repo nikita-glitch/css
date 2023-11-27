@@ -2,6 +2,8 @@
   .navbar__logo {
     width: 96px;
     height: 60px;
+    margin: 22px 0 67px 19px;
+
   }
   .navbar__list{
     display: none;
@@ -23,7 +25,7 @@
 .navbar__list {
   display: flex;
   list-style-type: none;
-  margin-left: 398px;
+  margin: 0 0 0 398px;
 }
 
 .list__element{

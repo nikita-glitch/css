@@ -1,3 +1,13 @@
+@media only screen and (min-width: 230px) and (max-width: 1279px) {
+  .navbar__logo {
+    width: 96px;
+    height: 60px;
+  }
+  .navbar__list{
+    display: none;
+  }
+}
+@media screen and (min-width: 1280px){
 .navbar{
   background: #EEEFF1;
   display: flex;
@@ -18,11 +28,13 @@
 
 .list__element{
   margin-right: 45px;
+  font-weight: 400;
 }
 .list__element:last-child{
   margin-right: 0;
 }
-.list__link:hover{
+.list__element_focused:hover{
   color: #34547A;
   font-weight: 500;
+}
 }

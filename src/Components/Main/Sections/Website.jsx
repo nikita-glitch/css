@@ -15,7 +15,7 @@ const Website = () => {
         <input class="form__email-input" placeholder=" Ваш e-mail" />
         <input class="form__message-input" placeholder="Сообщение" />
       </form>
-      <button class="section-website__button button">Отправить</button>
+      <button class="section-website__button button">ОТПРАВИТЬ</button>
     </section>
   );
 };

@@ -1,6 +1,8 @@
 import React from "react";
 import "./Work.css";
-import image from '../../../../static/Rectangle 5.png'
+import image1 from '../../../../static/Rectangle 5.png'
+import image2 from '../../../../static/view.svg'
+
 
 const Work = () => {
   return (
@@ -11,7 +13,11 @@ const Work = () => {
         вэб-дизайне. Lorem Ipsum является стандартной "рыбой" для текстов на
         латинице с начала XVI века.
       </p>
-      <img class="section-work__image" alt="" src={image} />
+      <div class='cont'>
+      <img class="section-work__image1" alt="" src={image1} />
+      <img class="section-work__image2" alt="" src={image2} />
+      </div>
+      
     </section>
   );
 };

@@ -7,11 +7,13 @@
     align-items: center;
     padding: 50px 0 39px 0;
   }
-  .footer__text-container{
+
+  .footer__text-container {
     text-align: center;
     margin-bottom: 30px;
-    
+
   }
+
   .text-container__copyright {
     font-size: 13px;
   }
@@ -27,15 +29,16 @@
     padding: 50px 0 50px 0;
   }
 
- 
+
 
   .text-container__copyright {
     margin: 20px 0 0 0;
     font-size: 13px;
   }
 
- 
+
 }
+
 .img-container__logo {
   width: 43.75px;
   height: 40px;
@@ -47,6 +50,7 @@
   height: 40px;
   margin: 0;
 }
+
 .text-container__h3 {
   margin: 0;
   font-size: 21px;

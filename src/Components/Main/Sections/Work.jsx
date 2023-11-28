@@ -15,7 +15,7 @@ const Work = () => {
       <div class="section-work__container-work">
         <img class="container-work__image" alt="" src={image1} />
         <div class="container-work__overlay-container">
-          <img class="overlay-container__overlay-image" alt="" src={image2}/>
+          <img class="overlay-container__overlay-image" alt="" src={image2} />
         </div>
       </div>
     </section>

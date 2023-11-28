@@ -11,9 +11,9 @@ const Website = () => {
         латинице с начала XVI века.
       </p>
       <form class="section-website__form">
-        <input class="form__name-input" placeholder="Ваше имя" />
-        <input class="form__email-input" placeholder=" Ваш e-mail" />
-        <input class="form__message-input" placeholder="Сообщение" />
+        <input class="form__name-input p_input" placeholder="Ваше имя" />
+        <input class="form__email-input p_input" placeholder=" Ваш e-mail" />
+        <input class="form__message-input p_input" placeholder="Сообщение" />
       </form>
       <button class="section-website__button button">ОТПРАВИТЬ</button>
     </section>

@@ -10,7 +10,8 @@ const Textme = () => {
         <h2 class="container-textme__header h2_header">Дизайн и верстка</h2>
         <p class="container-textme__p p_text">
           Lorem Ipsum - это текст-"рыба", часто используемый в печати и
-          вэб-дизайне. Lorem Ipsum является стандартной "рыбой" для текстов на
+          вэб-дизайне. 
+          Lorem Ipsum является стандартной "рыбой" для текстов на
           латинице с начала XVI века.
         </p>
         <button class="container-textme__button button">

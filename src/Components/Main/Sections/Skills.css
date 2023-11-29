@@ -11,7 +11,11 @@
     width: 100%;
     height: auto;
   }
-
+  .section-skills__container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
   .container__header {
     text-align: center;
     font-size: 32px;
@@ -39,11 +43,9 @@
 
   .container__text {
     color: #727272;
-    
+    padding: 0 190px 0 1px;
   }
-  .section-skills__container{
   
-  }
 }
 
 @media only screen and (min-width: 1280px) {

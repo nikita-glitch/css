@@ -4,7 +4,7 @@
     display: grid;
     padding: 75px 19px 74px 18px;
     grid-template-columns: repeat(2, 1fr);
-    gap: 89px 57px
+    gap: 89px 42px
   }
 
   .projects-container__p {
@@ -15,8 +15,6 @@
 
   .section-projects__container {
     display: flex;
-    flex-wrap: wrap;
-  
     
   }
   
